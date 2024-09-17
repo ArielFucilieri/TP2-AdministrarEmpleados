@@ -1,0 +1,52 @@
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #002042;
+  padding: 10px 20px;
+  color: white;
+  z-index: 100;
+  box-sizing: border-box;
+}
+
+
+.content {
+  padding-top: 60px;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  color: #ffffff;
+  flex-wrap: wrap;
+}
+
+.welcomeSection {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.welcomeMessage {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.logoutButton {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.logoutButton:hover {
+  background: #c82333;
+}

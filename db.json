@@ -1,0 +1,118 @@
+{
+  "employees": [
+    {
+      "name": "23132131313",
+      "lastname": "ariel",
+      "email": "john.doe@example.com",
+      "rol": "Programador",
+      "id": "3"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "name": "ariel",
+      "lastname": "Doe",
+      "email": "jane.doe@example.com",
+      "rol": "ari",
+      "id": "9"
+    },
+    {
+      "id": "54a8",
+      "name": "dsadsad",
+      "lastname": "dsadadsa",
+      "email": "SDADA@GMAI.COM",
+      "rol": "dsadasd"
+    },
+    {
+      "id": "9955",
+      "name": "ASDAD",
+      "lastname": "ADSADA",
+      "email": "SDADA@GMAI.COM",
+      "rol": "ADSAD"
+    },
+    {
+      "name": "ASDADAD",
+      "lastname": "321313",
+      "email": "SDADA@GMAI.COM",
+      "rol": "321313",
+      "id": "0e8f"
+    },
+    {
+      "name": "ari",
+      "lastname": "21313132",
+      "email": "3213213@3213.com",
+      "rol": "321313213213213",
+      "id": "d4a1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "Admin",
+      "password": "Admin123",
+      "email": "admin@example.com",
+      "admin": true
+    },
+    {
+      "id": "2",
+      "username": "Ariel",
+      "password": "Ariel123",
+      "email": "ariel123@example.com",
+      "admin": false
+    }
+  ]
+}
